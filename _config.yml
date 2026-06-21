@@ -1,8 +1,0 @@
-title: "Dermawan — DIY × Process"
-description: "DIY builds and system-thinking write-ups"
-theme: minima            # built-in GitHub Pages theme
-url: "https://dermawan.net"
-markdown: kramdown
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: "/page:num/"
